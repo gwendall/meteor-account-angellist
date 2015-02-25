@@ -2,7 +2,7 @@ Package.describe({
   name: "gwendall:accounts-angellist",
   summary: "Login service for AngelList accounts",
   version: "0.1.0",
-  git: "https://github.com/gwendall/meteor-accounts-angellist"
+  git: "https://github.com/gwendall/meteor-accounts-angellist.git"
 });
 
 Package.onUse(function(api) {
