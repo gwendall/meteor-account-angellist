@@ -7,5 +7,5 @@ Installation
 ------------
 
 ``` sh
-meteor add gwendall:auth-client-callbacks
+meteor add gwendall:accounts-angellist
 ```
